@@ -1,4 +1,4 @@
-# 📺 IPTV Playlist (Nepali + English)
+# 📺 IPTV Playlist
 
 A curated IPTV playlist built using the **IPTV-org project**, filtered to include only working channels.
 
