@@ -15,9 +15,11 @@ A curated IPTV playlist built using the **IPTV-org project**, filtered to includ
 
 ## 🌐 Channels Included
 
-- 🇳🇵 Nepali Channels  
-- 🇬🇧 English Channels  
-- Combined Channels playlist
+- All Languages  
+- Nepali
+- Hindi
+- English
+
 ---
 
 ## ⚙️ About This Project
