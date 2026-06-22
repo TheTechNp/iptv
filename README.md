@@ -10,6 +10,7 @@ A curated IPTV playlist built using the **IPTV-org project**, filtered to includ
 - 📂 Playlist Used: https://iptv-org.github.io/iptv/index.m3u
 - Nepali: https://iptv-org.github.io/iptv/languages/nep.m3u
 - Hindi: https://iptv-org.github.io/iptv/languages/hin.m3u
+- English: https://iptv-org.github.io/iptv/languages/eng.m3u
 
 ---
 
